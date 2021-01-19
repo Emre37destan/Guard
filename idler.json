@@ -1,0 +1,7 @@
+{
+  "jailRole":"Cezalı-İd" ,
+  "guildID":"Server-İd",
+  "botVoiceChannelID":"Ses-Kanal-İd",
+  "logChannelID":"Guard-Log-Kanal-İd",
+  "boosterRole":"Saldırıda-Eklenecek-Özel-Cezalı-İd"
+}
