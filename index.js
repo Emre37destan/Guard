@@ -6,6 +6,7 @@ const s = require('./koruma.json');
 const fs = require('fs');
 const express = require('express');
 const http = require('http');
+require("dotenv").config();
 
 
 const app = express();
